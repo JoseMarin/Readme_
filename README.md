@@ -1,3 +1,5 @@
+[banner backend-.net core 3.1] (https://github.com/JoseMarin/Readme_/blob/master/images/Back-end%20-%20C%23.png?raw=true)
+
 Título de Proyecto
 ===================
 1. Equipo Desarrollo 
