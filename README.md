@@ -1,6 +1,6 @@
-Título de Proyecto
-===================
-1. Equipo Desarrollo 
+# Título de Proyecto
+
+###### 1. Equipo Desarrollo 
 
 | Developer | Rama | Rol | Fecha Incorporación |
 | --- | :---:  | :---:  | :---:  |
@@ -8,17 +8,17 @@ Título de Proyecto
 | Edurne Camarena | Dev 2 | Backend Developer| 01/01/2021 |
 | Mayte Oses | Dev 3 | Frontend Developer| 01-01-2021 |
 
-2. Description
+###### 2. Description
 ```
 Descripción simple y corta del contexto de tu proyecto.
 ```
 
-3. Link a un demo con el proyecto desplegado: https://github.com/
+###### 3. Link a un demo con el proyecto desplegado: https://github.com/
 
 ```
 * Nombre de la App: [GITTT] (https://github.com/)
 ```
-4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
+###### 4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 ```
 Install
 
@@ -44,7 +44,8 @@ Compile/Run (fly)   npx ts-node '{path}/foo.ts'
 Running tests       npx jest	
 ```
 
-5. Screenshot imagen que indique cómo debe verse el proyecto.
+###### 5. Screenshot imagen que indique cómo debe verse el proyecto.
+
 ![image](https://user-images.githubusercontent.com/16636086/106936120-7aaf8300-671c-11eb-9ed2-79fe80608f50.png)
 
 
