@@ -1,4 +1,4 @@
-[banner backend-.net core 3.1] (https://github.com/JoseMarin/Readme_/blob/master/images/Back-end%20-%20C%23.png?raw=true)
+[banner backend-.net core 3.1] (https://raw.githubusercontent.com/JoseMarin/Readme_/blob/master/images/Back-end%20-%20C%23.png)
 
 Título de Proyecto
 ===================
