@@ -1,5 +1,3 @@
-![baner](https://user-images.githubusercontent.com/16636086/106935568-cc0b4280-671b-11eb-871c-8fbc1a900a38.png)
-
 Título de Proyecto
 ===================
 1. Equipo Desarrollo 
@@ -47,7 +45,7 @@ Running tests       npx jest
 ```
 
 5. Screenshot imagen que indique cómo debe verse el proyecto.
-
+![image](https://user-images.githubusercontent.com/16636086/106936120-7aaf8300-671c-11eb-9ed2-79fe80608f50.png)
 
 
 
