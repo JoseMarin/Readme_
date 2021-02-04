@@ -1,4 +1,4 @@
-![Linkdndevelope](https://user-images.githubusercontent.com/16636086/106937657-52288880-671e-11eb-8098-418301b98f8a.png)
+![banerGit](https://user-images.githubusercontent.com/16636086/106938115-ded34680-671e-11eb-8de4-35fd6d00868a.png)
 
 # Título de Proyecto
 
